@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.py": "python",
+    "stdlib.h": "c",
+    "typeinfo": "c",
+    "stat.h": "c",
+    "unistd.h": "c",
+    "cstdio": "c",
+    "method.h": "c",
+    "string.h": "c",
+    "types.h": "c",
+    "ipc.h": "c",
+    "msg.h": "c"
+  },
+  "editor.indentSize": 4
+}
